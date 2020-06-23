@@ -1,0 +1,1 @@
+F‚ñ^<?php exit; ?>a:1:{s:7:"content";s:175:"{"common.install":1592883612,"common.install_version":"0.14.2","license.status":"no_key","license.next_check":1593315612,"license.terms":"","license.community_terms":"accept"}";}
